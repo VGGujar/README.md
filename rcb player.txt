@@ -1,0 +1,44 @@
+
+{
+  "name": "Royal Challengers Bangalore",
+  "location": "Bangalore",
+  "four foreigne player & one wicket keeper": [
+    {
+      "name": "Faf Du Plessis",
+      "country": "South Africa",
+      "role": "Batsman",
+      "price-in-crores": "7"
+    },
+    
+    {
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "role": "Batsman",
+      "price-in-crores": "11"
+    },
+   
+    
+    {
+      "name": "Wanindu Hasaranga",
+      "country": "Srilanka",
+      "role": "Bowler",
+      "price-in-crores": "10.75"
+    },
+    
+    
+    {
+      "name": "Josh Hazlewood",
+      "country": "Australia",
+      "role": "Bowler",
+      "price-in-crores": "7.75"
+    },
+    {
+      "name": "Dinesh Karthik",
+      "country": "India",
+      "role": "Wicket-keeper",
+      "price-in-crores": "5.5"
+    },
+    
+    
+  ]
+}
